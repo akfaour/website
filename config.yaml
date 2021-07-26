@@ -1,4 +1,9 @@
 theme: "hugo-PaperMod"
-baseURL: http://example.org/
+baseURL: http://amirfaour.netlify.app
 languageCode: en-us
-title: My New Hugo Site
+title: Amir Faour
+ignoreFiles: ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
