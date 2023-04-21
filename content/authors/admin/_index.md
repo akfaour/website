@@ -19,14 +19,15 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Faour\
-    BSc MBBS PhD FRACP FCSANZ
+last_name: Faour
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: |
-    Interventional Cardiologist\
-    Adjunct Associate Lecturer
+- name: Medcare Hospitals and Clinics
+  url: https://www.medcare.ae/
+- name: University of New South Wales, Sydney, Australia
+  url: https://www.unsw.edu.au/
+role:
+- Interventional Cardiologist
+- Adjunct Associate Lecturer
 social:
 - icon: envelope
   icon_pack: fas
