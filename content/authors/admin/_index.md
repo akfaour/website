@@ -45,11 +45,11 @@ social:
   link: https://www.linkedin.com/
 - icon: cv
   icon_pack: ai
-  link: uploads/resume.pdf
+  link: 'uploads/2023-2-27-Amir-Faour.pdf'
 status:
   icon:
 superuser: true
-title: Dr. Amir Faour, BSc MBBS PhD FRACP FCSANZ
+title: Dr. Amir Faour
 ---
 
 Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
