@@ -45,7 +45,7 @@ social:
   link: https://www.linkedin.com/
 - icon: cv
   icon_pack: ai
-  link: 'uploads/2023-2-27-Amir-Faour.pdf'
+  link: uploads/resume.pdf
 status:
   icon:
 superuser: true
