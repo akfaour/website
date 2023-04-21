@@ -6,6 +6,8 @@ sections:
     text: null
     username: admin
   id: about
+  design:
+    columns: "2"
 - block: features
   content:
     items:
