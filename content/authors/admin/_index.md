@@ -19,8 +19,7 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: |
-    Faour\
+last_name: Faour\
     BSc MBBS PhD FRACP FCSANZ
 organizations:
 - name: Stanford University
