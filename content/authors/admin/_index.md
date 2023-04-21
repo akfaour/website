@@ -19,13 +19,12 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: |
-    Faour\
-    BSc MBBS PhD FRACP FCSANZ
+last_name: Faour
 organizations:
 - name: Stanford University
   url: https://www.stanford.edu/
 role: |
+    BSc MBBS PhD FRACP FCSANZ\
     Interventional Cardiologist\
     Adjunct Associate Lecturer
 social:
