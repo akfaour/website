@@ -13,13 +13,13 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2008
 email: ""
-first_name: Dr. Amir
+first_name: Amir
 highlight_name: true
 interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Faour, BSc
+last_name: Faour
 organizations:
 - name: Medcare Hospitals and Clinics
   url: https://www.medcare.ae/
