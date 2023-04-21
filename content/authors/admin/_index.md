@@ -23,9 +23,9 @@ last_name: Faour
 organizations:
 - name: Medcare Hospitals and Clinics
   url: https://www.medcare.ae/
-role:
-- Interventional Cardiologist
-- Adjunct Associate Lecturer
+role: |
+    Interventional Cardiologist\
+    Adjunct Associate Lecturer
 social:
 - icon: envelope
   icon_pack: fas
