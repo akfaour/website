@@ -45,7 +45,7 @@ social:
   link: https://www.linkedin.com/
 - icon: cv
   icon_pack: ai
-  link: public/uploads/resume.pdf
+  link: uploads/resume.pdf
 status:
   icon:
 superuser: true
