@@ -19,10 +19,12 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-last_name: Faour
+last_name: Faour, BSc
 organizations:
 - name: Medcare Hospitals and Clinics
   url: https://www.medcare.ae/
+- name: The University of New South Wales
+  url: https://www.unsw.edu.au/
 role: |
     Interventional Cardiologist\
     Adjunct Associate Lecturer
