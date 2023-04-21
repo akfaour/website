@@ -23,8 +23,6 @@ last_name: Faour
 organizations:
 - name: Medcare Hospitals and Clinics
   url: https://www.medcare.ae/
-- name: University of New South Wales, Sydney, Australia
-  url: https://www.unsw.edu.au/
 role:
 - Interventional Cardiologist
 - Adjunct Associate Lecturer
